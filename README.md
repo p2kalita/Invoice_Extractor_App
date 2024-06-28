@@ -56,5 +56,6 @@ open up localhost:
 - LangChain
 - Gemini
 - Streamlit
+- CromaDB
 
 
